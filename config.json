@@ -5,10 +5,13 @@
   "author": "MeshCentral Plugin Team",
   "description": "Expose a lightweight API for dispatching shell commands to MeshCentral agents.",
   "hasAdminPanel": false,
-  "meshCentralCompat": ">=0.4.4-s",
-  "license": "MIT",
+  "homepage": "https://github.com/xen119/MeshCentral-CommandAPI",
+  "configUrl": "https://raw.githubusercontent.com/xen119/MeshCentral-CommandAPI/refs/heads/main/config.json",
+  "downloadUrl": "https://github.com/xen119/MeshCentral-CommandAPI/archive/refs/heads/main.zip",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanblenis/MeshCentral-Sample.git"
-  }
+    "url": "https://github.com/xen119/MeshCentral-CommandAPI.git"
+  },
+  "meshCentralCompat": ">=1.1.35",
+  "license": "MIT"
 }
